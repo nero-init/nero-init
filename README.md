@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Remy</h1>
-<h3 align="center">Amante de tecnologia, tenho vivência com JavaScript, HTML, Python, C e LUA. Neste perfil vou compartilhar meus testes na programação. 🤓</h3>
+<h3 align="center">Amante de tecnologia, gosto de projetos com JavaScript, Python e LUA. 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nero-init&label=Profile%20views&color=0e75b6&style=flat" alt="nero-init" /> </p>
 
