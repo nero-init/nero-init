@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, meu nome é Remy</h1>
 <h3 align="center">Amante de tecnologia, gosto de projetos que envolvolvam Python e LUA. 🤓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nero-init&label=Profile%20views&color=0e75b6&style=flat" alt="nero-init" /> </p>
-
 - 🌱 Atualmente estou focado em **Python**
 
 <h3 align="left">Conecte-se ao meu LinkedIn:</h3>
